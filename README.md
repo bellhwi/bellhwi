@@ -16,7 +16,7 @@
 
 - 📫 How to reach me johnnykim94@hotmail.com
 
-- 📄 Know about my experiences [Google Docs Resume](https://docs.google.com/document/d/1-X1DLL1w5mDYhfPo5MGjhvFamdA_74ZJt8DEc71j2pw/edit?usp=share_link)
+- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1-X1DLL1w5mDYhfPo5MGjhvFamdA_74ZJt8DEc71j2pw/edit?usp=share_link)
 
 
 <h3 align="left">Tech Stack</h3>
