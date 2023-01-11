@@ -1,6 +1,8 @@
 # Jonghwi Kim
 > self-taught frontend developer from South Korea 🇰🇷
 
+## About
+
 - 💻 I’m looking for a remote job position **React Frontend Developer**
 
 - ⭐️ I'm showcasing my main projects at [jonghwikim.com](https://jonghwikim.com/)
@@ -12,6 +14,10 @@
 - 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1-X1DLL1w5mDYhfPo5MGjhvFamdA_74ZJt8DEc71j2pw/edit?usp=share_link)
 
 - 📫 How to reach me johnnykim94@hotmail.com
+
+## Activity
+<p><img src="https://github-readme-stats.vercel.app/api?username=bellhwi&show_icons=true&locale=en&theme=dark&hide=stars,issues" alt="github-stats"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bellhwi&theme=dark" alt="github-streak"/></p>
 
 ## Tech Stack
 <p align="left">
@@ -39,7 +45,3 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
 </p>
-
-## Activity
-<p><img src="https://github-readme-stats.vercel.app/api?username=bellhwi&show_icons=true&locale=en&theme=dark" alt="github-stats"/></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bellhwi&theme=dark" alt="github-streak"/></p>
