@@ -1,233 +1,45 @@
-<h1 align="center">Hi, I'm Jonghwi Kim 😄</h1>
-<h3 align="center">I'm a self-taught Frontend Developer from South Korea 🇰🇷🧑🏻‍💻</h3>
-<p align="center">
-<a href="https://linkedin.com/in/jonghwikim" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jonghwikim"/></a>
-<a href="https://www.youtube.com/c/@jonghwikim" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="jonghwi kim" /></a>
-</p>
+# Jonghwi Kim
+> self-taught frontend developer from South Korea 🇰🇷
 
+- 💻 I’m looking for a remote job position **React Frontend Developer**
 
-- 💻 I’m currently looking for a remote job position **React Frontend Developer**
+- ⭐️ I'm showcasing my main projects at [jonghwikim.com](https://jonghwikim.com/)
 
-- 🌱 I’m currently learning **NextJS**
+- 📍 I’m currently working on the project [Prolog](https://github.com/profydev/prolog-app-bellhwi)
 
-- 👨‍💻 All of my main projects are available at [https://jonghwikim.com/](https://jonghwikim.com/)
-
-- 🎥 I regularly upload programming contents on [https://www.youtube.com/@jonghwikim](https://www.youtube.com/@jonghwikim)
-
-- 📫 How to reach me johnnykim94@hotmail.com
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
 
 - 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1-X1DLL1w5mDYhfPo5MGjhvFamdA_74ZJt8DEc71j2pw/edit?usp=share_link)
 
+- 📫 How to reach me johnnykim94@hotmail.com
 
-<h3 align="left">Tech Stack</h3>
+## Tech Stack
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  </p>
-  <p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-  </p>
-  <p align="left">
-      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-        alt="sketch"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-        alt="gcp"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"
-        alt="unity"
-        width="40"
-        height="40"
-      />
-    </a>
-      <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"
-        alt="godot"
-        width="40"
-        height="40"
-      />
-    </a>
-  </p>
-    <p align="left">
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-      <img
-        src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"
-        alt="macOS"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-windows.svg"
-        alt="windows"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux"
-        width="40"
-        height="40"
-      />
-    </a>
-  </p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=bellhwi&show_icons=true&locale=en"
-    alt="bellhwi"
-  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"  />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white" alt="react-query" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" />
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="storybook"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="godot"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bellhwi&"
-    alt="bellhwi"
-  />
-</p>
-
+## Activity
+<p><img src="https://github-readme-stats.vercel.app/api?username=bellhwi&show_icons=true&locale=en&theme=dark" alt="github-stats"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bellhwi&theme=dark" alt="github-streak"/></p>
