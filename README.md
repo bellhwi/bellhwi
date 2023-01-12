@@ -16,7 +16,7 @@
 - 📫 How to reach me johnnykim94@hotmail.com
 
 ## Activity
-<p><img src="https://github-readme-stats.vercel.app/api?username=bellhwi&show_icons=true&locale=en&theme=dark&hide=stars,issues" alt="github-stats"/></p>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=bellhwi&show_icons=true&locale=en&theme=dark&hide=stars,issues" alt="github-stats"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bellhwi&theme=dark" alt="github-streak"/></p>
 
 ## Tech Stack
