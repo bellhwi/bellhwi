@@ -1,5 +1,5 @@
 # Jonghwi Kim
-> self-taught frontend developer from South Korea 🇰🇷
+> self-taught frontend developer
 
 ## About
 
