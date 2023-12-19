@@ -1,5 +1,5 @@
 # Jonghwi Kim
-> self-taught frontend developer
+> Self-taught frontend developer
 
 ## About
 
@@ -7,7 +7,7 @@
 
 - ⭐️ I'm showcasing my main projects at [jonghwikim.com](https://jonghwikim.com/)
 
-- 📍 I’m currently working on the project [Prolog](https://github.com/profydev/prolog-app-bellhwi)
+- 📍 I’m currently working on the freelance project [junlawfirm](https://github.com/bellhwi/junlawfirm)
 
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
 
@@ -36,13 +36,6 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" />
   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="storybook"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="godot"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
 </p>
