@@ -11,7 +11,7 @@
 
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
 
-- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1sb04-iGHiQJpp8Cfb_CJ_IknxdDJvcF5v5schEDJLeQ/edit?usp=share_link)
+- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1ffykliEnCGxbXMfXGqy4Y2N2TArVCk3_iE5dlQY05L4/edit?usp=drive_link)
 
 - 📫 How to reach me johnnykim94@hotmail.com
 
