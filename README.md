@@ -3,15 +3,13 @@
 
 ## About
 
-- 💻 I’m looking for a remote job position **React Frontend Developer**
+- 💻 I’m looking for a remote job position **Frontend Developer**
 
 - ⭐️ I'm showcasing my main projects at [jonghwikim.com](https://jonghwikim.com/)
 
-- 📍 I’m currently working on the freelance project [junlawfirm](https://github.com/bellhwi/junlawfirm)
-
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
 
-- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1ffykliEnCGxbXMfXGqy4Y2N2TArVCk3_iE5dlQY05L4/edit?usp=drive_link)
+- 📄 Know about my experiences [Google Docs]([https://docs.google.com/document/d/1ffykliEnCGxbXMfXGqy4Y2N2TArVCk3_iE5dlQY05L4/edit?usp=drive_link](https://docs.google.com/document/d/1mRocp_GtfJ9TTSFG2qkIQXhZl8M0tdVPrm0kn9cbtn4/edit?usp=drive_link))
 
 - 📫 How to reach me johnnykim94@hotmail.com
 
