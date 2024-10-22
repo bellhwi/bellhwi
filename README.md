@@ -3,15 +3,15 @@
 
 ## About
 
-- 💻 I’m looking for a remote job position **Frontend Developer**
+- I’m looking for a remote job position **Frontend Developer**
 
-- ⭐️ I'm showcasing my main projects at [jonghwikim.com](https://jonghwikim.com/)
+- I'm showcasing my main projects at [jonghwikim.com](https://jonghwikim.com/)
 
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
 
-- 📄 Know about my experiences [Google Docs]([https://docs.google.com/document/d/1ffykliEnCGxbXMfXGqy4Y2N2TArVCk3_iE5dlQY05L4/edit?usp=drive_link](https://docs.google.com/document/d/1mRocp_GtfJ9TTSFG2qkIQXhZl8M0tdVPrm0kn9cbtn4/edit?usp=drive_link))
+- Know about my experiences [Google Docs](https://docs.google.com/document/d/1mRocp_GtfJ9TTSFG2qkIQXhZl8M0tdVPrm0kn9cbtn4/edit?usp=drive_link)
 
-- 📫 How to reach me johnnykim94@hotmail.com
+- How to reach me johnnykim94@hotmail.com
 
 ## Activity
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=bellhwi&show_icons=true&locale=en&theme=dark&hide=stars,issues" alt="github-stats"/></p>
