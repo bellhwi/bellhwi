@@ -9,7 +9,7 @@
 
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/jonghwikim/)
 
-- Know about my experiences [Google Docs](https://docs.google.com/document/d/1mRocp_GtfJ9TTSFG2qkIQXhZl8M0tdVPrm0kn9cbtn4/edit?usp=drive_link)
+- Know about my experiences [Google Docs](https://docs.google.com/document/d/1Y56Rn_92naL1BsIEgea2ulLTRxOs2ySGYl_Z28ypxbI/edit?usp=sharing)
 
 - How to reach me johnnykim94@hotmail.com
 
